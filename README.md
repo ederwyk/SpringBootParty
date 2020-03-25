@@ -1,12 +1,11 @@
-#Exemplo simples de aplicação usando spring boot
+# Exemplo simples de aplicação usando spring boot
 
 Aplicação faz uso de:
--Hibernate
--Spring Security
--Spring MVC
--Thymeleaf
--Maven
--Bootstrap
+* Hibernate
+* Spring Security
+* Spring MVC
+* Thymeleaf
+* Maven
+* Bootstrap
 
-Criado a partir:
-https://start.spring.io/
+Criado com [Spring Initializr](https://start.spring.io/)
